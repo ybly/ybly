@@ -8,11 +8,11 @@ Explore my work at [yinboly.com](https://yinboly.com/)
 
 ## 🛠️ Tools
 
-**Frontend Development**: `HTML` `CSS` `Javascript` `Typescript` `React` `Gatsby`
+**Frontend Development**: `HTML` `CSS` `Javascript` `Typescript` `React` `Redux`
 
 **Backend Development**: `Java` `Python` `Node.js` `GraphQL`
 
-**Others**: `Git` `Jira` `Confluence`
+**Others**: `Git`
 
 ## 📬 Contact
 
