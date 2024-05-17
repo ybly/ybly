@@ -2,5 +2,22 @@
 
 `Software Engineer / Web Developer`
 
-I'm Bo, a full-stack developer based in the UK. I enjoy building projects from the ground up, solving real-life problems with code, and focusing on creating efficient and scalable solutions. Check out my work and projects on my personal portfolio site: [yinboly.com](https://yinboly.com/). Feel free to explore, and let's connect!
+I'm Bo, a full-stack developer based in the UK. I enjoy building projects from the ground up, solving real-life problems with code, and creating digital experiences.
+
+Explore my work at [yinboly.com](https://yinboly.com/)
+
+## 🛠️ Tools
+
+**Frontend Development**: `HTML` `CSS` `Javascript` `Typescript` `React` `Gatsby`
+
+**Backend Development**: `Java` `Python` `Node.js` `GraphQL`
+
+**Others**: `Git` `Jira` `Confluence`
+
+## 📬 Contact
+
+Let's connect to collaborate or discuss new opportunities! Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/yinboly/).
+
+
+
 
