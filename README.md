@@ -16,7 +16,7 @@ Explore my work at [yinboly.com](https://yinboly.com/)
 
 ## 📬 Contact
 
-Let's connect to collaborate or discuss new opportunities! Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/yinboly/)
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/yinboly/). Let's connect to collaborate or discuss new opportunities!
 
 
 
