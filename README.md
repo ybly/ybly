@@ -7,9 +7,9 @@ I'm Bo, a full-stack developer based in the UK. I enjoy building projects from t
 Explore my work at [yinboly.com](https://yinboly.com/)
 
 ## 📬 Contact
+Let's connect!
 
-Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/yinboly/). Let's connect to collaborate or discuss new opportunities!
-
+[![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yinboly/)
 
 
 
