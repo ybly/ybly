@@ -2,7 +2,7 @@
 
 `Web Developer`
 
-A full-stack developer based in the UK. I enjoy building projects from the ground up, solving real-life problems with code, and creating digital experiences. Explore my work at [yinboly.com](https://yinboly.com/).
+A full-stack developer based in the UK. I enjoy building projects from the ground up, solving real-life problems with code, and creating digital experiences.
 
 Let's connect!
 
