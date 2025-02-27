@@ -1,8 +1,6 @@
 # Hi, I'm Bo👋
 
-`Web Developer`
-
-A full-stack developer based in the UK. I enjoy building projects from the ground up, solving real-life problems with code, and creating digital experiences.
+A software developer based in the UK. I enjoy building projects from the ground up, solving real-life problems with code, and creating digital experiences.
 
 Let's connect!
 
